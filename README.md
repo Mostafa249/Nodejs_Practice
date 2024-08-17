@@ -6,15 +6,25 @@ Welcome to my Node.js backend project! 🚀 This project is designed to handle a
 This project is built using Node.js and leverages the following npm packages:
 
 ajv: JSON Schema validator.
+
 bcrypt: Library to hash passwords.
+
 config: Configuration management.
+
 cookie-parser: Middleware to parse cookies.
+
 ejs: Embedded JavaScript templating.
+
 express: Web framework for Node.js.
+
 helmet: Security for Express apps by setting various HTTP headers.
+
 jsonwebtoken: For creating and verifying JSON Web Tokens (JWT).
+
 mongoose: MongoDB object modeling tool, used to interact with the MongoDB database.
+
 validator: String validation and sanitization.
+
 ## 🚀 Getting Started
 Follow these steps to get the project up and running on your machine:
 
