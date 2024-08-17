@@ -80,7 +80,7 @@ If you'd like to contribute, feel free to fork the repository, create a new bran
 8. Running Tests
 If there are tests in the project, you can run them using:
 
-bash
-Copy code
+```bash
 npm test
+```
 This will execute all test cases and provide you with a report of the results.
